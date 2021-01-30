@@ -2,7 +2,7 @@
 
 <img src="socialmedia/coding.gif" alt="Coding" width=200 height=200 align="right">
 
-## I'm a Learner, Developer, Communicator and Thinker
+## I'm a Learner, Developer, Communicator and Daydreamer
 
 - I'm a Frontend Developer at Webinstats
 - I'm trying to learn everything about useful things / or useless _-sometimes-_
