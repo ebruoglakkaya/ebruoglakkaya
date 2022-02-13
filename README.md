@@ -9,7 +9,7 @@
 - I love everything about js
 - I have a bachelor degree in Computer Engineer (Halic University | 2019)
 - I have some certificates on web and mobile development
-- I'm use React& Native for mobile front-end, .Net tecnologies for back-end development
+- I'm use React& Native for mobile front-end
 
 #### Connect with me:
 
