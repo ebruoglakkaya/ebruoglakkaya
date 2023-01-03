@@ -4,7 +4,7 @@
 
 ## I'm a Learner, Developer, Communicator 
 
-- I'm a React Native Developer at Boyner
+- I'm a React Native Developer at HangiKredi
 - I'm trying to learn everything about useful things / or useless _-sometimes-_
 - I love everything about js
 - I have a bachelor degree in Computer Engineer (Halic University | 2019)
